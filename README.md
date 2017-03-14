@@ -5,3 +5,6 @@ ce projet et un prohet de **démonstration** à titre educatif dans le cadre de 
 ##presentation du jeu
 ###ces principes
 principe du jeu a décrir ici
+
+###participants
+tout les membres de la formation.
