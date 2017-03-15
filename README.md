@@ -10,4 +10,7 @@ principe du jeu a décrir ici
 tout les membres de la formation.
 
 ###auteur du programe
-moi ce grand genie 
+moi ce grand genie
+
+###remerciment
+merci a moi et surtout moi
