@@ -8,3 +8,6 @@ principe du jeu a décrir ici
 
 ###participants
 tout les membres de la formation.
+
+###auteur du programe
+moi ce grand genie 
